@@ -1,0 +1,7 @@
+streamlit
+embedchain[youtube]
+ollama
+youtube-transcript-api
+pytube
+mtranslate
+asyncio
